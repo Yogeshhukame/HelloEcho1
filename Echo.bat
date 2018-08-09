@@ -1,3 +1,3 @@
 Echo " Hello from Jenkins"
 
-I am in master
+Echo " I am in feature"
