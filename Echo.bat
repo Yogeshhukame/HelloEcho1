@@ -1,3 +1,3 @@
 Echo " Hello from Jenkins"
 
-Echo "I am in master"
+Echo "I am in Bug"
